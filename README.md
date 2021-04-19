@@ -9,9 +9,6 @@ This project contains analyse of relation between dog size and intelligence.
 
 - [Quick start](#quick-start)
 - [Creators](#creators)
-- [Thanks](#thanks)
-- [Copyright and license](#copyright-and-license)
-
 
 
 ## Quick start
