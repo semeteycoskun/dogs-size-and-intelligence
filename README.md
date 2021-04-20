@@ -39,6 +39,7 @@ For Ubuntu Jupyter Notebook can be installed with the code belows for other oper
   - https://data.world/len/dog-size-intelligence-linked
 - size_intelligence_relation.ipynb
     Main project notebook.
+- docs folder and its content is used to publish a high-level article of this work. Not required for the main project.
 
 ## Libraries
 Required libraries:
