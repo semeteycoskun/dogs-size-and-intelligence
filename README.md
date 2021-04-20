@@ -19,7 +19,7 @@ Aim of this project is to clarify the relation between dog loyalty, intelligence
 ## Table of contents
 
 - [Quick start](#quick-start)
-- [Files Descriptions] (#files-descriptions)
+- [Files Descriptions](#files-descriptions)
 - [Libraries](#libraries)
 - [Creators](#creators)
 
