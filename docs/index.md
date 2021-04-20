@@ -48,15 +48,15 @@ After all data cleaning processing analysis we can evaluate the results:
 
 **1. Is intelligence related to size?**
 
-    It seems there is no directly relation between dog size and intelligence (avg_reps) according to correlation. So there is no reason to worry about adopting small breeds if you think they are not as smart as bigger breeds.
+   It seems there is no directly relation between dog size and intelligence (avg_reps) according to correlation. So there is no reason to worry about adopting small breeds if you think they are not as smart as bigger breeds.
 
 **2. Is loyalty related to size?**
 
-    The situation is the same as intelligence for loyalty (obey), there is no direct relation with the breed size.
+   The situation is the same as intelligence for loyalty (obey), there is no direct relation with the breed size.
 
 **3. Is loyalty direclty related to intelligence?**
 
-    Obey and avg_reps almost same as metric value but they are opposite of each other as expected, while one of them is positive other one is negative. So we can say that dogs which learn a command with less reps are more loyal and more oriented to owners.
+   Obey and avg_reps almost same as metric value but they are opposite of each other as expected, while one of them is positive other one is negative. So we can say that dogs which learn a command with less reps are more loyal and more oriented to owners.
 
 For details of the analyse please check the github repository mentioned below:
 https://github.com/semeteycoskun/dogs-size-and-intelligence/
